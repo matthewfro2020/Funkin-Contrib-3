@@ -88,8 +88,10 @@
       "url": "https://github.com/FunkinCrew/hxCodec"
     },
     {
-      "name": "hxcpp",{
-  "dependencies": [
+      "name": "hxcpp",
+      "type": "haxelib",
+      "version": null
+    },
     {
       "name": "FlxPartialSound",
       "type": "git",
